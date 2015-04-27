@@ -1,0 +1,1 @@
+ScLe is a Scrabble® like game based on ncurses library. Current version (0.1) allows to play two players on a local machine. It uses named pipes to connect to other clone of this program.
